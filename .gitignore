@@ -1,0 +1,18 @@
+# .NET
+BookingApi/bin/
+BookingApi/obj/
+BookingApi/appsettings.Development.json
+BookingApi/appsettings.Local.json
+*.user
+
+# Node / Vite
+booking-ui/node_modules/
+booking-ui/dist/
+booking-ui/.env
+booking-ui/.env.local
+
+# General
+.vs/
+.vscode/
+.DS_Store
+*.log
